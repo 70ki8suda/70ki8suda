@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @70ki8suda
-- 👀 I’m interested in ... TypeScript, Next.js, Nest.js,Prisma, WebGL, Rust
+- 👀  TypeScript, Next.js,Prisma, WebGL, Rust
